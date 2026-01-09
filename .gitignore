@@ -53,22 +53,3 @@ dkms.conf
 
 # debug information files
 *.dwo
-
-# Build
-build/
-
-# Dependencies
-/scoop/
-deps/
-
-# IDEs
-.zed/
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
